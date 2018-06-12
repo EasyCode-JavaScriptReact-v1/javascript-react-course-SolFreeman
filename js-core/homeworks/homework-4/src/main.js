@@ -48,11 +48,11 @@ function numbersBetween(a, b) {
     console.log(myArray);
 }
 
-numbersBetween(3, 5);
-// 3, 4, 5
+numbersBetween(4, 6);
+// 4, 5, 6
 
-numbersBetween(10, 12);
-// 10, 11, 12
+numbersBetween(9, 11);
+// 9, 10, 11
 
 /*
  2. Перепишите задачу FizzBuzz, но с использованием цикла.
